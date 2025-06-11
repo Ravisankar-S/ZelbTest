@@ -1,0 +1,6 @@
+plant_id,height,temperature,stemdiameter,leafcount,humidity,moisture
+1,10.5,25,2,6,66,20
+2,11.2,25,1.8,5,69,50
+3,12.2,24,2.2,8,75,35
+4,13.2,23,1.2,3,72,28
+5,14.2,22,1.5,4,78,29
